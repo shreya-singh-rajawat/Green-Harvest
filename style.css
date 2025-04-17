@@ -1,0 +1,91 @@
+
+  
+
+  .view-cart-btn {
+    display: block;
+    margin-top: 20px;
+    background: #28a745;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    width: 150px;
+  }
+  
+  /* #cart-items div {
+    background: #fff;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 6px;
+  }
+    */
+  button {
+    margin: 5px;
+  }
+  
+  button.added {
+    background-color: rgb(255, 255, 255);
+    color:black;
+    border:black;
+    cursor: zoom-out;
+  } 
+  
+
+  .containers{
+    max-width: 1000px;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+  }
+  h1, h2, h3, h4 {
+    color: green;
+  }
+  input, select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  /* .row {
+    display: flex;
+    gap: 10px;
+  } */
+  .checkout-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  .checkout-btn:hover {
+    background-color: #45a049;
+  }
+  /* .card-logos img {
+    width: 50px;
+    margin-right: 10px;
+  } */
+  .payment-methods {
+    margin-top: 30px;
+  }
+  .payment-box {
+    margin-top: 20px;
+    display: none;
+  }
+  .active-method {
+    display: block;
+  }
+  /* .cart-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  } */
+  /* @media (max-width: 768px) {
+    .row {
+      flex-direction: column;
+    }
+  } */
