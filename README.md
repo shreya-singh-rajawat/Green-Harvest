@@ -1,4 +1,4 @@
 # E-commerece-website-for-farmers-
 
-https://agriproduct.herokuapp.com/index.html
+https://greenharvestt.netlify.app/
 A farmer friendly website to sell and buy products online.
